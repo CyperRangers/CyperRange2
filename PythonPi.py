@@ -2,6 +2,7 @@
 Name: pi.py
 Purpose: Get the value of Pi to n number of decimal places
 Author: Pradipta (geekpradd)
+Changes: CyberRangers
 Algorithm: Chudnovsky Algorithm
 License: MIT
 
@@ -36,7 +37,8 @@ def factorial(n):
 def getIteratedValue(k):
 	"""
 	Return the Iterations as given in the Chudnovsky Algorithm.
-	k iterations gives k-1 decimal places.. Since we need k decimal places
+	k iterations gives k-1 decimal places.. =>
+	Since we need k decimal places
 	make iterations equal to k+1
 	
 	Parameters:
@@ -81,7 +83,7 @@ def shell():
 		if entry == "quit":
 			break
 		if not entry.isdigit():
-			print ("You did not enter a number. Try again")
+			print ("You did not enter a number. How hard can it be to enter a number. Try again!")
 		else:
 			print (getValueOfPi(int(entry)))
 
