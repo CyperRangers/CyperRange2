@@ -1,5 +1,5 @@
 ##py7h0np1
-
+pl3453 c0n74c7 cyp3r@7u74m41l.c0m f0r 1nf0rm4710n
 637 7h3 v4lu3 0f p1 up70 n d3c1m4l d16175 u51n6 7h15 py7h0n 5cr1p7. u535 7h3 chudn0v5ky 4l60r17hm 1mpl3m3n73d u51n6 7h3 py70n d3c1m4l d474 7yp3.
 
 ####1n574ll4710n S3Qu3n(3
@@ -15,11 +15,13 @@ p1p 1n574ll py7h0np1
 ####u5463
 
 #####c0n50l3 u5463
-
+15n'7 7h15 c00l?
 ju57 run 7h3 f1l3 (1f n07 1n574ll3d u51n6 p1p) 0r 3n73r 7h3 f0ll0w1n6 c0mm4nd (1f 1n574ll3d u51n6 p1p):
 
 ```
 py7h0np1
+
+echo w31rd fl3x m473
 ```
 
 y0u c4n 7h3n u53 7h3 1n73r4c71v3 5h3ll 70 d0 y0ur c4lcul4710n5
