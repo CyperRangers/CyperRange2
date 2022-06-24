@@ -45,6 +45,7 @@ def getIteratedValue(k):
 	k = k+1
 	getcontext().prec = k
 	sum=0
+	print (k)
 	for k in range(k):
 		first = factorial(6*k)*(13591409+545140134*k)
 		down = factorial(3*k)*(factorial(k))**3*(640320**(3*k))
