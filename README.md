@@ -1,6 +1,7 @@
 ##py7h0np1
 pl3453 c0n74c7 cyp3r@7u74m41l.c0m f0r 1nf0rm4710n
-637 7h3 v4lu3 0f p1 up70 n d3c1m4l d16175 u51n6 7h15 py7h0n 5cr1p7. u535 7h3  1mpl3m3n73d u51n6 7h3 py70n d3c1m4l d474 7yp3.
+T35T 1T 15 W8 0H n0
+637 7h3 v4lu3 0f p1 up70 n d3c1m4l d16175 u51n6 7h15 py7h0n 5cr1p7. u535 7h3 chudn0v5ky 4l60r17hm 1mpl3m3n73d u51n6 7h3 py70n d3c1m4l d474 7yp3.
 
 ####1n574ll4710n S3Qu3n(3
 
