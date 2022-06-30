@@ -13,6 +13,7 @@ setup(
     description = "Get the Value of Pi upto as many decimal places as needed",
     license = "MIT",
     keywords = "pi maths",
+    weird = "true",
     url = "https://github.com/CyperRangers/CyperRange2",
     py_modules = ['PythonPi'],
     entry_points = {
