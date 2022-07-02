@@ -33,7 +33,7 @@ def getIteratedValue (OOOO00O0OOO0OO0OO ):#line:34
 	k iterations gives k-1 decimal places.. =>
 	Since we need k decimal places
 	make iterations equal to k+1
-	
+	Not sure what this shit does.
 	Parameters:
 	k  -- Number of Decimal Digits to get
 	"""#line:43
